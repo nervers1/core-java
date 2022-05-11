@@ -102,7 +102,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.mkyong.io.howto.resources.TestApp</mainClass>
+                            <mainClass>kr.or.formulate.io.howto.resources.TestApp</mainClass>
                             <!--
                             <mainClass>com.mkyong.io.utils.FileResourcesUtils</mainClass>
                             -->
