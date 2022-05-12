@@ -22,6 +22,7 @@ public class GenerateKeyPairs {
 
         // save this public key
         byte[] pubKey = publicKey.getEncoded();
+        System.out.println(pubKey);
 
         System.out.println("---");
 
@@ -33,5 +34,6 @@ public class GenerateKeyPairs {
 
         // save this private key
         byte[] priKey = privateKey.getEncoded();
+        System.out.println(priKey);
     }
 }
