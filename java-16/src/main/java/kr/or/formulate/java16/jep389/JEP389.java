@@ -13,7 +13,7 @@ public class JEP389 {
 
     public static void main(String[] args) throws Throwable {
 
-        Path path = Path.of("/home/mkyong/projects/core-java/java-16/hello.so");
+        Path path = Path.of("/opt/code/projects/core-java/java-16/hello.so");
 
         LibraryLookup libraryLookup = LibraryLookup.ofPath(path);
 

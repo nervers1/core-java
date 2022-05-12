@@ -3,7 +3,6 @@ package kr.or.formulate.collections.map;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
-import static java.util.stream.Collectors.toMap;
 
 public class InitMap {
 
